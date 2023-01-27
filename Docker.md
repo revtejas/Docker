@@ -4,6 +4,7 @@
 - Relation?
 - How does it compare with virtual machines?
 
+## Introduction
 We isolate our services to make sure our services dont interfere with each other and make use of high performance, availability and security.
 - To host our apps we need infrastructure
 - We use VMs/ Cloud computing to setup infra
