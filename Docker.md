@@ -41,6 +41,12 @@ All the binaries, libraries and configuration for a process is isolated and avai
 - VM need OS but containers dont need OS
 - Containers uses host opertaing system.
 
-# Defintion of Docker
+## Defintion of Docker
 - Docker(aka container run time environment) manages container using Docker Engine.
-- 
+
+## Advantages of Docker
+- Portable anywhere.
+- Lightweight as it drives higher server efficiencies and reducing server and licensing costs.
+- Secure as it provides the strongest default isolation capabilities.
+
+
